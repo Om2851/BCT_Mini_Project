@@ -1,4 +1,5 @@
 # BCT_Mini_Project
+
 Problem Statement:
 The healthcare industry faces significant challenges in securing sensitive patient data, which is often
 stored in centralized systems vulnerable to breaches, unauthorized access, and tampering. This
@@ -6,6 +7,8 @@ project proposes SwasthyaChain, a blockchain-based decentralized application (dA
 the integrity, security, and privacy of electronic health records (EHR). The solution leverages
 blockchain technology and smart contracts to create an immutable, auditable, and secure platform
 for managing health-related records, while addressing scalability issues using off-chain storage.
+
+
 Objectives:
 • Data Integrity: Ensure the immutability of medical records by storing cryptographic hashes
 on a secure blockchain network.
